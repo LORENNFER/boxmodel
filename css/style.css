@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: plum;
+}
+
+.centrar {
+    display:  flex;
+    justify-content: center;
+}
+
+.Tom{
+    height: 400px;
+    background-color: aquamarine;
+    background-image: url(../images/tom.png);
+    background-size: 400px;
+    background-repeat: no-repeat;
+    background-position: 200px;
+}
+
+.Jerry{
+    height: 400px;
+    background-color: coral;
+    background-image:url(../images/jerry.png);
+    background-size: 400px;
+    background-repeat: no-repeat;
+    background-position: 200px;
+}
+
+p{
+    font-size: 18px;
+}
+
+h1{
+    font-family: 'Simonetta', cursive;
+}
